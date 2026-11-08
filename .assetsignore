@@ -1,0 +1,7 @@
+img/src
+.git
+node_modules
+wrangler.jsonc
+.gitignore
+.assetsignore
+.wrangler
